@@ -64,4 +64,6 @@ Jee Hoon's Website.
 <img src="http://denniscyang.com/blog/content/images/2015/02/pusheencat.png" alt="pusheencat">
 ```
 
+<img src="http://denniscyang.com/blog/content/images/2015/02/pusheencat.png" alt="pusheencat" width="298" height="298">
+
 ![pusheencat](http://denniscyang.com/blog/content/images/2015/02/pusheencat.png)
