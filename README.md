@@ -79,3 +79,12 @@ Jee Hoon's Website.
 - [2016년에 자바스크립트를 실제로 배우는 기—분](http://www.looah.com/article/view/2055)
 - [JavaScript는 잘못이 없다. 정말로.](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10#.h8bhr27lg)
 
+### 인용 구문
+
+인용절은 보통 들여쓰기를 통해 사용자에게 일반 문장과 구분해준다.<br>
+HTML 언어에서는 `<blockquote>` 요소를 사용하여 인용절을 구조화한다.
+
+> "Design is All. All is Design."<br>
+> "Learn By Doing"<br>
+> "그것이 최선입니까? 확실해요?"
+
