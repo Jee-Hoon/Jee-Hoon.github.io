@@ -64,6 +64,18 @@ Jee Hoon's Website.
 <img src="http://denniscyang.com/blog/content/images/2015/02/pusheencat.png" alt="pusheencat">
 ```
 
-<img src="http://denniscyang.com/blog/content/images/2015/02/pusheencat.png" alt="pusheencat" width="298" height="298">
+<!-- <img src="http://denniscyang.com/blog/content/images/2015/02/pusheencat.png" alt="pusheencat" width="298" height="298"> -->
 
-![pusheencat](http://denniscyang.com/blog/content/images/2015/02/pusheencat.png)
+![pusheencat](Assets/ghost-cat.png "pusheencat")
+
+### 하이퍼링크
+
+```html
+<a href="http://iropke.com/">이롭게 에이전시</a>
+```
+
+- [디자이너에게 영감을 주는 사이트](http://iropke.com/blog/archives/3994)
+- [소란 십센치 디스 - '봄이 좋냐??'가 좋냐 (부제: 돈이 그렇게도 좋냐 십센치들아)](https://www.youtube.com/watch?v=8EpjJxZIc4I&feature=youtu.be)
+- [2016년에 자바스크립트를 실제로 배우는 기—분](http://www.looah.com/article/view/2055)
+- [JavaScript는 잘못이 없다. 정말로.](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10#.h8bhr27lg)
+
