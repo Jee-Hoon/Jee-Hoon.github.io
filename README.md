@@ -57,3 +57,11 @@ Jee Hoon's Website.
 1. item1
 1. item2
 1. item3
+
+### 이미지
+
+```html
+<img src="http://denniscyang.com/blog/content/images/2015/02/pusheencat.png" alt="pusheencat">
+```
+
+![pusheencat](http://denniscyang.com/blog/content/images/2015/02/pusheencat.png)
