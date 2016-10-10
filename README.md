@@ -84,11 +84,36 @@ Jee Hoon's Website.
 인용절은 보통 들여쓰기를 통해 사용자에게 일반 문장과 구분해준다.<br>
 HTML 언어에서는 `<blockquote>` 요소를 사용하여 인용절을 구조화한다.
 
+```html
+<blockquote>
+  <p>"Design is All. All is Design."</p>
+  <p>"Learn By Doing"</p>
+  <p>"그것이 최선입니까? 확실해요?"</p>
+</blockquote>
+```
+
 > "Design is All. All is Design."<br>
 > "Learn By Doing"<br>
 > "그것이 최선입니까? 확실해요?"
 
 ### 표
+
+```html
+<table>
+  <tr>
+    <th>Job Type</th><th>Role</th>
+  </tr>
+  <tr>
+    <td>Planner</td><td>Plan</td>
+  </tr>
+  <tr>
+    <td>Designer</td><td>Design</td>
+  </tr>
+  <tr>
+    <td>Developer</td><td>Develop</td>
+  </tr>
+</table>
+```
 
 Job Type | Role
 ---|---
